@@ -24,6 +24,12 @@ https://localhost:5000/swagger/index.html
 
 http://localhost:8025/
 
+### KAFKA
+
+### ELASTICSEARCH
+
+
+
 For local development:
 ```
 make cert // generates tls certificates
